@@ -1,12 +1,8 @@
-# Shop-Mart-Project
+# Shop-Mart-Project :- 
 
 
 live URL : https://darshil158.github.io/Shop-Mart-Project/
 
-
-# JS-PROJECT
-
-# Shop Mart Project :- 
 
 1) Index Page(Home Page)
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/24d5c92b-d47e-4ae4-92b6-926936ee2116" />
@@ -18,7 +14,8 @@ live URL : https://darshil158.github.io/Shop-Mart-Project/
 
 2) View All Products
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a8221eca-06f4-4ba3-ad27-4deda6d0de3b" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9ffc114f-c1c8-4206-91aa-137b70ffa947" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/375c3102-fe22-46c7-83ab-d5b5fd74f84b" />
+
 
 3) Add Products
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b3b51d4f-9bb2-44da-a4f5-ed8a9db3bd71" />
@@ -31,12 +28,14 @@ live URL : https://darshil158.github.io/Shop-Mart-Project/
 
 5) Cart
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/22480a31-4a5b-4aa0-bd9a-990657629dcc" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/043b22b6-750d-42ec-999d-7716371871dc" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/67a3317f-5da0-43e0-8f68-ae3c15af11f9" />
 
 6) Single Product
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7203ab35-25ca-48b6-a957-11c8df903365" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/97fa5c20-d535-4e7f-90ed-aca8fbd54698" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f041d840-def1-4c9d-b690-090179a1440d" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7726293c-dc36-4565-b84f-c3f871a3e533" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4d4c838b-a3a2-4fe8-89b4-d6f902149141" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/8c9a4611-dfb7-49a8-af7b-d1fed1402176" />
+
+
 
 
 
