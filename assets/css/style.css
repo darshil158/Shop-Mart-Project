@@ -401,7 +401,7 @@ footer a:hover {
 #upButton {
     display: block;
     z-index: 1000;
-    border: var(--primary-color);
+    border: 1px solid #5fc9f3;
     color: var(--primary-color);
     background-color: var(--secondary-color);   
     border-radius: 50%;
